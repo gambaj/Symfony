@@ -20,8 +20,8 @@
         "doctrine/doctrine-fixtures-bundle":"~2.2",
         "stof/doctrine-extensions-bundle":"~1.1",
         "onurb/doctrine-yuml-bundle": "dev-master",
-        "friendsofsymfony/user-bundle": "1.5"
-
+        "friendsofsymfony/user-bundle": "2.5",
+	"Et je vous fais chier en plus": "1000.0"
     },
     "require-dev": {
         "sensio/generator-bundle": "~2.3"
