@@ -22,6 +22,8 @@ class OCAntispam extends \Twig_Extension
 
 	public function getName() {
 		// salut les gens
+
+		// c'est un com de merde
 		return 'OCAntiSpam';
 	}
 }
