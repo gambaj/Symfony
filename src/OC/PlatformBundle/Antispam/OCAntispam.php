@@ -24,6 +24,7 @@ class OCAntispam extends \Twig_Extension
 		// salut les gens
 
 		// c'est un com de merde
+		// Arrete d'ecrire des coms de merde Nico !
 		return 'OCAntiSpam';
 	}
 }
